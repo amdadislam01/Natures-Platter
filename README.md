@@ -21,6 +21,4 @@ An eco-friendly food delivery platform showcasing organic and sustainable meal o
 
 ## 🍃 Project Screenshots
 
-| Homepage | Menu |
-|----------|------|
-| <img src="screenshots/home.png" width="300"> | <img src="screenshots/menu.png" width="300"> |
+ <img src="https://i.imgur.com/aEQqikC.png" width="1000"> 
