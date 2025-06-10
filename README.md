@@ -19,6 +19,13 @@ An eco-friendly food delivery platform showcasing organic and sustainable meal o
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,github" alt="Tech Stack" width="350"/>
 </p>
 
+ ## Popular Products
+
+ <img src="https://i.imgur.com/YTfICZb.png" width="1000"> 
+
+
 ## 🍃 Project Screenshots
 
  <img src="https://i.imgur.com/aEQqikC.png" width="1000"> 
+
+
